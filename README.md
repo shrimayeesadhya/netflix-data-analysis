@@ -44,12 +44,6 @@ Machine Learning
 
 A Random Forest Classifier was used to predict content type.
 
-Project Structure
-netflix-data-analysis/
-│
-├── data/
-├── netflix_analysis.ipynb
-├── requirements.txt
-└── README.md
+
 Author
 Shrimayee Sadhya
